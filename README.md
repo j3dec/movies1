@@ -1,13 +1,11 @@
-Prestation suite à la validation du projet technique :
-
-Cher Monsieur Chevalier, 
+Monsieur Chevalier, 
 
 
 L'équipe TEAM C a le plaisir de vous délivrer les éléments dont nous avons convenu ensemble à la validation du projet technique et nous vous remercions de votre confiance.
 
 Pour rappel, vous nous avez consulté, dans un premier temps, pour nous faire part de votre projet de création d'un service de VOD et donc, de vous aider à identifier au travers d'une étude concurrentielle sur quel modèle de contenu vous pourriez vous démarquer ou attirer rapidement des clients.
 
-Afin d'étudier au mieux votre demande, vous nous avez fournis 4 fichiers CSV ainsi qu'un fichier README détaillant l'origine de ces données.
+Afin d'étudier au mieux votre demande, vous nous avez fournis 4 fichiers CSV ainsi qu'un fichier README.txt détaillant l'origine de ces données.
 
 Il en ressortait les éléments suivants :
 
