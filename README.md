@@ -3,7 +3,7 @@ Monsieur Chevalier,
 
 L'équipe TEAM C a le plaisir de vous délivrer les éléments dont nous avons convenu ensemble à la validation du projet technique et nous vous remercions de votre confiance.
 
-Pour rappel, vous nous avez consulté, dans un premier temps, pour nous faire part de votre projet de création d'un service de VOD et donc, de vous aider à identifier au travers d'une étude concurrentielle sur quel modèle de contenu vous pourriez vous démarquer ou attirer rapidement des clients.
+**Pour rappel**, vous nous avez consulté, dans un premier temps, pour nous faire part de votre projet de création d'un service de VOD et donc, de vous aider à identifier au travers d'une étude concurrentielle sur quel modèle de contenu vous pourriez vous démarquer ou attirer rapidement des clients.
 
 Afin d'étudier au mieux votre demande, vous nous avez fournis 4 fichiers CSV ainsi qu'un fichier README.txt détaillant l'origine de ces données.
 
@@ -20,9 +20,9 @@ Les données (extraites le 26/09/2018) sont réparties dans 4 fichiers au format
     
 Pour exploiter ce dataset, la meilleure option est d'importer ces 4 fichiers dans une Base de Données de type relationnelle que nous allons nommer Floupics.db.
 
-Voici le plan que nous avons établi pour cette réalisation :
+Voici **le plan** que nous avons établi pour cette réalisation :
 
-L'ensemble des détails technique pour reproduire en autonomie les opérations sont accessibles dans le fichier BDD_Floupics.ipynb.
+L'ensemble des détails technique pour reproduire en autonomie les opérations sont accessibles dans le fichier paramsBDD.ipynb.
 
 Nous vous recommandons d'ouvrir ce fichier sous Jupyterlab, mais vous pouvez également l'ouvrir sous un Editeur de texte tel que Visual Studio Code.
 
