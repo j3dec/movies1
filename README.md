@@ -28,25 +28,16 @@ Nous vous recommandons d'ouvrir ce fichier sous Jupyterlab, mais vous pouvez ég
 
     1) La création d'un dépôt Github movies1 pour retrouver notre étude.
     
-    2) Le dépôt est organisé de cette façon : "à finir dès que l'on sera d'accord sur les dossiers, etc...arborescence"
+    2) Le dépôt est organisé de cette façon :
     
-    3) la création d'un fichier BDD_Floupics.ipynb qui hébergera le code python nécessaire à :
-    
-        a) La création d'une base de données sur la base des données fournies uniquement.
-    
-        b) l'intégration toujours via python des données fournies et la vérification de cette opération
-    
-        c) Une analyse un peu plus poussée (sous SQlite et DB Browser) des données de la base ainsi crée :
-        
-            Q1) Rating moyen par film : à l'aide de cette requête nous sommes capable de classer les films qui ont obtenu les meilleurs notes moyennes.
-            
-            Q2) Nombre de rating par film : réponse apportée avec la requête précédente, cela complète l'analyse car tous les films listés dans le fichier movies.csv n'ont pas reçu de vote.
-            
-            Q3) Quels films n’ont reçus aucun vote : nous avons donc voulu connaître le % de films qui ne sont pas pris en compte : résultat seuls 18 films sur 9742 n'ont pas reçu de vote.
-        
-        d) Nous avons listé ses contraintes, limitations, manquements
-        
-    4) Vous retrouverez ci-dessous une rapide synthèse finale suggérant des éventuels points à étudier et/ou considérer pour enrichir la base de données crée.
-
-#Synthèse :
-
+    3) la création de trois fichiers 
+         a) "paramsBDD.ipynb":
+           - La création d'une base de données sur la base des données fournies uniquement.
+           - L'intégration toujours via python des données fournies et la vérification de cette opération
+     
+         b) "requetesBDD.ipynb" :
+           - Une analyse un peu plus poussée (sous SQlite et DB Browser) des données de la base ainsi crée :
+       
+         c) "synthese.ipynb" :
+           - Synthèse finale suggérant des éventuels points à étudier et/ou considérer pour enrichir la base de données crée.
+           - Nous avons listé ses contraintes, limitations, manquements
